@@ -26,6 +26,7 @@ Week 2
 | --- | ------------ | ------------------------------------------------- | ------------------- | -------- | ----------------------------- |
 | 8 | 21 Juli 2025 | [Longes Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | Array and Hashing | Medium | [Jawaban](./solutions/day-08) |
 | 9 | 22 Juli 2025 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | String | Easy | [Jawaban](./solutions/day-09) |
+| 10 | Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Array and Hashing | Medium | [Jawaban](./solutions/day-10) |
 
 > 📌 _Catatan: Tulisannya bisa disesuaikan jika ada variasi bahasa (JS, TS, Python, dll). Struktur folder disarankan `solutions/day-XX/namasoal.ext`._
 
